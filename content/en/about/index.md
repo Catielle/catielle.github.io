@@ -4,7 +4,7 @@ title = "About me"
 type = "blog"
 +++
 
-* edit number 1 *
+Edit number 2
 
 I'm a **sea sponge** who works as a fry cook at the **Krusty Krab**:
 ![](/img/krusty_krab.webp)
