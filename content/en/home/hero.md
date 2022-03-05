@@ -25,7 +25,7 @@ hero_media = "/img/portrait.jpg"
 
 +++
 
-# Stories **matter**.
+# stories **matter**.
 
 and telling them is my purpose in life.
 
