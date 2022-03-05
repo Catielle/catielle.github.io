@@ -25,7 +25,7 @@ hero_media = "/img/portrait.jpg"
 
 +++
 
-# A theme to **express** your ideas.
+# Stories **matter**.
 
-Pico is a minimalist, readable, responsive, light and beautiful Hugo theme.
+and telling them is my purpose in life.
 
