@@ -46,7 +46,7 @@ required = true
 
 # Textarea works same as input but doesn't support pattern matching
 [[inputs]]
-label = "Sua mensagem (mínimi de 10 caracteres)"
+label = "Sua mensagem (mínimo de 10 caracteres)"
 type = "textarea"
 # pattern is not supported on textarea
 name = "message"
