@@ -60,7 +60,7 @@ url = "https://instagram.com/catielleandressa"
 
 [[params.social]]
 alt = "linkedin icon"
-icon = "/icons/linkedin.svg"
+icon = "/icons/linkedin.png"
 name = "linkedin"
 url = "https://www.linkedin.com/in/catielleandressa"
 
