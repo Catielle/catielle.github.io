@@ -43,7 +43,7 @@ alt = "medium icon"
 blank = true
 icon = "/icons/medium.svg"
 name = "medium"
-url = "https://medium.com/"
+url = "https://medium.com/@catielle"
 
 [[params.social]]
 alt = "twitter icon"
@@ -51,6 +51,12 @@ blank = true
 icon = "/icons/twitter.svg"
 name = "twitter"
 url = "https://twitter.com/outraventania"
+
+[[params.social]]
+alt = "instagram icon"
+icon = "/icons/instagram.svg"
+name = "instagram"
+url = "https://instragram.com/catielleandressa"
 
 
 # Navigation bar
@@ -61,12 +67,6 @@ identifier = "home" # identifier is use for translations
 pre = "" # pre is inserted before the translation (icons, image, etc)
 url = "/" 
 weight = 10 
-
-[[menu.main]]
-identifier = "blog" # identifier is use for translations
-pre = "" # pre is inserted before the translation (icons, image, etc)
-url = "/blog/" 
-weight = 20 
 
 [[menu.main]]
 identifier = "contact" # identifier is use for translations
