@@ -54,7 +54,7 @@ url = "https://twitter.com/outraventania"
 
 [[params.social]]
 alt = "instagram icon"
-icon = "/icons/instagram.svg"
+icon = "/icons/instagram.png"
 name = "instagram"
 url = "https://instagram.com/catielleandressa"
 
