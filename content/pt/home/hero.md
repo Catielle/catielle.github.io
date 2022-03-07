@@ -15,17 +15,17 @@ hero_media = "/img/catielle.jpg"
 	# The url of the button
   url = "/about"
 	# The text of the button
-  label = "Know more"
+  label = "Saiba mais"
 	# Primary color
 	primary = true
 
 [[btn]]
   url = "#contact"
-  label = 'Contact me'
+  label = 'Contato'
 
 +++
 
-# stories **matter**.
+# histórias **importam**.
 
-and telling them is my purpose in life.
+e contá-las é o meu propósito na vida.
 
