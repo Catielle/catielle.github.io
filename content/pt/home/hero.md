@@ -7,7 +7,7 @@ weight = 10
 # hidden = true
 
 # Hero image (optional). Enter filename of an image in the `static/` folder.
-hero_media = "/img/portrait.jpg"
+hero_media = "/img/catielle.jpg"
 
 # Buttons
 # Add as much button as you want
@@ -15,16 +15,17 @@ hero_media = "/img/portrait.jpg"
 	# The url of the button
   url = "/about"
 	# The text of the button
-  label = "En savoir plus"
+  label = "Know more"
 	# Primary color
 	primary = true
 
 [[btn]]
   url = "#contact"
-  label = 'Me contacter'
+  label = 'Contact me'
 
 +++
 
-# Un thème pour **exprimer** vos idées.
+# stories **matter**.
 
-Pico est un thème qui se veut minimaliste, responsive, clair et léger.
+and telling them is my purpose in life.
+
