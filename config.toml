@@ -58,6 +58,12 @@ icon = "/icons/instagram.svg"
 name = "instagram"
 url = "https://instagram.com/catielleandressa"
 
+[[params.social]]
+alt = "linkedin icon"
+icon = "/icons/linkedin.svg"
+name = "linkedin"
+url = "https://www.linkedin.com/in/catielleandressa"
+
 
 # Navigation bar
 [menu]
