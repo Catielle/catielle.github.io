@@ -16,3 +16,4 @@ cp pt.toml ./themes/pico/i18n/pt.toml
 ./update.sh
 
 hugo --gc --minify
+cp CNAME public/CNAME
