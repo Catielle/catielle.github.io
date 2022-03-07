@@ -55,5 +55,5 @@ required = true
 
 +++
 
-Need help to write your story?
-Let’s talk about it!
+Precisa de ajuda para criar a sua história?
+Vamos conversar!
