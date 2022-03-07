@@ -1,13 +1,13 @@
 +++
-title = "Hi,"
+title = "Oi,"
 
 type = "blog"
 +++
 
 
-I’m a Storyteller who works as a Ghostwriter. In the past ten years, I've been dealing with the joy and responsibility to create stories and narratives that uplift, inspire, inform and shape the way we see ourselves and the world around us. Now, I'm studying Screenwriting to master the rules of drama and conduct my career to the next level.
+Sou uma contadora de histórias que trabalha como Ghostwriter. Nos últimos dez anos, tenho lidado com a alegria e a responsabilidade de criar histórias e narrativas que elevam, inspiram, informam e moldam a maneira como vemos a nós mesmos e o mundo ao nosso redor. Atualmente estou estudando roteiro de cinema, em Florença na Itália, para dominar as regras do drama e levar minha carreira para o próximo nível.
 
-Feel free to connect and let me know if I can help you to create your story. We can get it done together!
+Sinta-se à vontade para me escrever e me deixe saber se eu posso ajudá-la a contar a sua história.
 
 ![](/img/portrait.jpg)
 
