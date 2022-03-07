@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>test on Catielle</title><link>https://catielle.github.io/tags/test/</link><description>Recent content in test on Catielle</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 05 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://catielle.github.io/tags/test/index.xml" rel="self" type="application/rss+xml"/><item><title>My very first blog post</title><link>https://catielle.github.io/blog/test_one/</link><pubDate>Sat, 05 Mar 2022 00:00:00 +0000</pubDate><guid>https://catielle.github.io/blog/test_one/</guid><description>Emphasis This is bold text
-This is bold text
-This is italic text
-This is italic text
-Strikethrough</description></item><item><title>The second blog post is the charm</title><link>https://catielle.github.io/blog/test_two/</link><pubDate>Sat, 05 Mar 2022 00:00:00 +0000</pubDate><guid>https://catielle.github.io/blog/test_two/</guid><description>Lists Unordered
-Create a list by starting a line with +, -, or * Sub-lists are made by indenting 2 spaces: Marker character change forces new list start: Ac tristique libero volutpat at Facilisis in pretium nisl aliquet Nulla volutpat aliquam velit Very easy! Ordered
-Lorem ipsum dolor sit amet
-Consectetur adipiscing elit
-Integer molestie lorem at massa</description></item></channel></rss>
