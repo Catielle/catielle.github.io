@@ -1,13 +1,12 @@
 +++
-title = "About me"
+title = "Hey"
 
 type = "blog"
 +++
 
-Edit number 2
 
-I'm a **sea sponge** who works as a fry cook at the **Krusty Krab**:
-![](/img/krusty_krab.webp)
+I'm a **storyteller** who works as ghostwriter and screenwriter:
+![](/img/portrait.jpg)
 
 The Krusty Krabe is a fast food restaurant known for it's signature burger:
 
