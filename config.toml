@@ -105,7 +105,7 @@ contentDir = 'content/pt'
 languageCode = 'pt'
 languageName = 'Português'
 weight = 2
-description = "Catielle Andressa | Esritora e Roteirista"
+description = "Catielle Andressa | Escritora e Roteirista"
 # Uncomment the following lines to add an italian translation.
 # [languages.it]
 # contentDir = 'content/it'
