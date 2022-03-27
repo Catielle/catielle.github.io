@@ -10,7 +10,7 @@ paginate = 10
 theme = 'pico'
 # Title of the website is used for the meta tag title
 # and the square icon (not the favicon)
-title = 'Catielle'
+title = 'Catielle Andressa'
 
 [params]
 customCSS = [
@@ -21,7 +21,7 @@ customJS = ["js/console.js"] # Path relative to assets folder
 # Homepage description
 # For blog page description you can overwrite it 
 # in the front matter
-description = "Catielle Andressa website"
+description = "Catielle Andressa | Writer and Screenwriter"
 email = "catielle@posteo.net"
 favicon = '/icons/favicon.ico'
 # Dark mode support
@@ -99,13 +99,13 @@ contentDir = 'content/en'
 languageCode = 'en'
 languageName = 'English'
 weight = 0
-
+description = "Catielle Andressa | Writer and Screenwriter"
 [languages.pt]
 contentDir = 'content/pt'
 languageCode = 'pt'
 languageName = 'Português'
 weight = 2
-
+description = "Catielle Andressa | Esritora e Roteirista"
 # Uncomment the following lines to add an italian translation.
 # [languages.it]
 # contentDir = 'content/it'
