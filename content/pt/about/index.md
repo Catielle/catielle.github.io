@@ -9,7 +9,7 @@ Sou uma contadora de histórias que trabalha como Ghostwriter. Nos últimos dez 
 
 Sinta-se à vontade para me escrever e me deixe saber se eu posso ajudá-la a contar a sua história.
 
-![](/img/portrait.jpg)
+![](/img/cati.jpg)
 
 
-![](/img/storyteller.jpg)
+![](/img/writing.jpg)
