@@ -9,7 +9,7 @@ I’m a Storyteller who works as a Ghostwriter. In the past ten years, I've been
 
 Feel free to connect and let me know if I can help you to create your story. We can get it done together!
 
-![](/img/portrait.jpg)
+![](/img/cati.jpg)
 
 
-![](/img/storyteller.jpg)
+![](/img/writing.jpg)
