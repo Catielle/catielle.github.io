@@ -27,5 +27,5 @@ hero_media = "/img/portrait.jpg"
 
 # histórias **importam**.
 
-e criá-las é o meu propósito na vida.
+e contá-las é o meu propósito de vida.
 
