@@ -25,7 +25,7 @@ hero_media = "/img/portrait.jpg"
 
 +++
 
-# histórias **importam**.
+# **artista** visual & verbal.
 
-e contá-las é o meu propósito de vida.
+bem-vindo à minha presença na web
 
