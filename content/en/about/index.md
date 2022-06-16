@@ -5,9 +5,17 @@ type = "blog"
 +++
 
 
-I’m a Storyteller who works as a Ghostwriter. In the past ten years I've been dealing with the joy and responsibility to create stories and narratives that uplift, inspire, inform and shape the way we see ourselves and the world around us. Now, I'm studying Screenwriting to master the rules of drama and conduct my career to the next level.
+I'm a verbal & visual artist.
 
-Feel free to connect and let me know if I can help you to create your story. We can get it done together!
+I interpret and recreat the world trhoug words and images.
+
+I was born and raised in a small city in the South of Brazil, but now I'm living under de Tuscan sun, in the heart of beautiful Italy.
+
+Email: catielle@posteo.net
+Instagram: @catielleandressa
+Linkedin: Catielle Andressa
+Medium: @catielle
+
 
 ![](/img/cati.jpg)
 
