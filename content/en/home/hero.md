@@ -25,7 +25,7 @@ hero_media = "/img/portrait.jpg"
 
 +++
 
-# stories **matter**.
+# visual & verbal **artist**.
 
-and telling them is my purpose in life.
+welcome to my web presence
 
