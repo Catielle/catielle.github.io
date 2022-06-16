@@ -55,5 +55,4 @@ required = true
 
 +++
 
-Need help to write your story?
-Let’s talk about it!
+Don't be shy, say hi!
