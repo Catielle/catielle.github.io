@@ -55,5 +55,4 @@ required = true
 
 +++
 
-Precisa de ajuda para criar a sua história?
-Me mande uma mensagem, vamos conversar!
+Me dá um oi?
