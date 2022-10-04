@@ -25,7 +25,7 @@ hero_media = "/img/portrait.jpg"
 
 +++
 
-# **artista** visual & verbal.
+# Consultora de **Storytelling**
 
-bem-vindo à minha presença na web
+Aprenda a contar histórias que cativam, convencem & inspiram.
 
