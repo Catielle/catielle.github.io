@@ -27,5 +27,4 @@ hero_media = "/img/portrait.jpg"
 
 # **Storytelling** Consultant. 
 
-Learn how to tell stories that captivate, convince & inspire.
-
+Learn with me how to tell stories that will captivate, convince and inspire your audience!
