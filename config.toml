@@ -100,22 +100,9 @@ languageCode = 'en'
 languageName = 'English'
 weight = 0
 description = "Catielle Andressa | Writer and Screenwriter"
-[languages.pt]
-contentDir = 'content/pt'
-languageCode = 'pt'
-languageName = 'Português'
+[languages.ita]
+contentDir = 'content/ita'
+languageCode = 'ita'
+languageName = 'Italiano'
 weight = 2
-description = "Catielle Andressa | Escritora e Roteirista"
-# Uncomment the following lines to add an italian translation.
-# [languages.it]
-# contentDir = 'content/it'
-# languageCode = 'it'
-# languageName = 'Italiano'
-# weight = 3
-
-# Uncomment the following lines to add an spanish translation.
-# [languages.es]
-# contentDir = 'content/es'
-# languageCode = 'es'
-# languageName = 'Español'
-# weight = 4
+description = "Catielle Andressa | Scrittore e Sceneggiatore"
