@@ -15,13 +15,13 @@ hero_media = "/img/portrait.jpg"
 	# The url of the button
   url = "/about"
 	# The text of the button
-  label = "Saiba mais"
+  label = "Scopri di più"
 	# Primary color
 	primary = true
 
 [[btn]]
   url = "#contact"
-  label = 'Contato'
+  label = 'Contatti'
 
 +++
 
