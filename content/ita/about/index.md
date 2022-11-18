@@ -1,12 +1,12 @@
 +++
-title = "Histórias Importam"
+title = "Stories Matter"
 
 type = "blog"
 +++
 
 
-Catielle **Escreve** e **Consultora de Storytelling**. Atua no mercado editorial como Ghostwriter há mais de dez anos e também oferece Consultorias e Mentorias em *Escrita Criativa* e *Narrativa* para pessoas físicas e empresas.
-É formada em Pedagogia pela IESCAMP e em Roteiro de Cinema pela AIC - (Academia Internacional de Cinema) e  SNCI (Escola Nacional de Cinema Independente) na Itália onde vive atualmente. 
+Catielle è una Scrittrice e Consulente di Storytelling. Lavora nel mercato editoriale come Ghostwriter da oltre dieci anni e offre anche Consulenza e Mentoring in *Scrittura Creativa* e *Storytelling* per aziende e privati. 
+Si è laureata in Pedagogia presso IESCAMP e in Sceneggiatura Cinematografica presso AIC (International Film Academy) e SNCI (Scuola Nazionale di Cinema Indipendente) in Italia dove attualmente vive.
 
 
 ![](/img/cati.jpg)
