@@ -1,6 +1,6 @@
 +++
 widget = "contact_form"
-title = "Me escreva" 
+title = "Contattaci" 
 
 # Uncomment the following line and widget will NOT be displayed
 # hidden = true
@@ -46,7 +46,7 @@ required = true
 
 # Textarea works same as input but doesn't support pattern matching
 [[inputs]]
-label = "Sua mensagem (mínimo de 10 caracteres)"
+label = "Messaggio (minimo di 10 caratteri)"
 type = "textarea"
 # pattern is not supported on textarea
 name = "message"
@@ -55,4 +55,4 @@ required = true
 
 +++
 
-Me dá um oi?
+Fai il primo passo
