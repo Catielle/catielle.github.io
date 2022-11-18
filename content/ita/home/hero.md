@@ -25,7 +25,7 @@ hero_media = "/img/portrait.jpg"
 
 +++
 
-# Consultora de **Storytelling**
+# Consulente di **Storytelling**
 
-Aprenda comigo a contar histórias que vão cativar, convencer & inspirar a sua audiência!
+Impara con me a raccontare storie che affascineranno, convinceranno e ispireranno il tuo pubblico!
 
