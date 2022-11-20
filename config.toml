@@ -35,7 +35,7 @@ darkMode = 'off'
 [[params.social]]
 alt = "medium icon"
 blank = true
-icon = "/icons/medium.svg"
+icon = "/icons/medium.png"
 name = "medium"
 url = "https://medium.com/@catielle"
 
@@ -53,7 +53,7 @@ url = "https://www.linkedin.com/in/catielleandressa"
 
 [[params.social]]
 alt = "pinterest icon"
-icon = "/icons/linkedin.png"
+icon = "/icons/pinterest.png"
 name = "pinterest"
 url = "https://www.pinterest.it/catiellean/"
 
