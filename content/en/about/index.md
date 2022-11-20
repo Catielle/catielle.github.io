@@ -10,7 +10,4 @@ She has a degree in Pedagogy from IESCAMP and in Film Screenwriting from AIC —
 
 
 
-![](/img/cati.jpg)
-
-
-![](/img/writing.jpg)
+![](/img/catielleeng.jpg)
