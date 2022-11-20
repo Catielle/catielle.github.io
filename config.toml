@@ -116,7 +116,7 @@ languageCode = 'en'
 languageName = 'English'
 weight = 0
 description = "Catielle Andressa | Writer and Storytelling Consultant"
-[languages.it]
+[languages.ita]
 contentDir = 'content/ita'
 languageCode = 'it'
 languageName = 'Italiano'
