@@ -95,12 +95,6 @@ pre = "" # pre is inserted before the translation (icons, image, etc)
 url = "/" 
 weight = 10 
 
-[[languages.ita.menu.main]]
-identifier = "home" # identifier is use for translations
-name = 'Casita'
-url = '/'
-weight = 0
-
 
 # Syntax highlightning
 [markup.highlight]
@@ -128,5 +122,9 @@ languageCode = 'ita'
 languageName = 'Italiano'
 weight = 2
 description = "Catielle Andressa | Scrittricce e Consulente di Stoytelling"
-
+[[languages.ita.menu.main]]
+identifier = "home" # identifier is use for translations
+name = 'Casita'
+url = '/'
+weight = 10
 
