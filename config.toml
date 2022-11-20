@@ -41,9 +41,10 @@ url = "https://medium.com/@catielle"
 
 [[params.social]]
 alt = "instagram icon"
+blank = true
 icon = "/icons/instagram.png"
 name = "instagram"
-url = "https://instagram.com/catcreatestories"
+url = "https://instagram.com/cacreatestories"
 
 [[params.social]]
 alt = "linkedin icon"
