@@ -27,5 +27,5 @@ hero_media = "/img/portrait.jpg"
 
 # Consulente di **Storytelling**
 
-Impara con me a raccontare storie che affascineranno, convinceranno e ispireranno il tuo pubblico!
+Impara con me a raccontare storie che affascineranno e ispireranno il tuo pubblico!
 
