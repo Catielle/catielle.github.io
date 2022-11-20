@@ -9,7 +9,4 @@ Catielle è una **Scrittrice** e **Consulente di Storytelling**. Lavora nel merc
 Si è laureata in Pedagogia presso IESCAMP e in Sceneggiatura Cinematografica presso AIC — International Film Academy e SNCI — Scuola Nazionale di Cinema Indipendente in Italia dove attualmente vive.
 
 
-![](/img/cati.jpg)
-
-
-![](/img/writing.jpg)
+![](/img/catielleita.jpg)
