@@ -50,7 +50,7 @@ label = "Messaggio (minimo di 10 caratteri)"
 type = "textarea"
 # pattern is not supported on textarea
 name = "message"
-placeholder = "Your message..."
+placeholder = "Inviami il tuo messaggio..."
 required = true
 
 +++
