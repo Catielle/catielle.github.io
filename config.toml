@@ -51,6 +51,12 @@ icon = "/icons/linkedin.png"
 name = "linkedin"
 url = "https://www.linkedin.com/in/catielleandressa"
 
+[[params.social]]
+alt = "pinterest icon"
+icon = "/icons/linkedin.png"
+name = "pinterest"
+url = "https://www.pinterest.it/catiellean/"
+
 
 # Navigation bar
 [menu]
