@@ -105,6 +105,11 @@ pre = "" # pre is inserted before the translation (icons, image, etc)
 url = "/#contatti" 
 weight = 30 
 
+[[menu.main.ITA]]
+identifier = "casa" # identifier is use for translations
+pre = "" # pre is inserted before the translation (icons, image, etc)
+url = "/" 
+weight = 10 
 
 # Syntax highlightning
 [markup.highlight]
