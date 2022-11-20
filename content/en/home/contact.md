@@ -9,13 +9,13 @@ title = "Contact me"
 # standard forms.
 #
 # Form handler
-# action = "/contact_handler.php"
+action = "https://formkeep.com/f/fc4d8187085a"
 # Form submit method
 # method = "GET" # Default is POST
 
 # For Netlify form
 #
-netlify = true
+# netlify = true
 
 # Add a contact via email button if your email
 # is configured in the config file of your website.
