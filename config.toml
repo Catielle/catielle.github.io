@@ -76,6 +76,7 @@ pre = "" # pre is inserted before the translation (icons, image, etc)
 url = "/#contact" 
 weight = 30 
 
+
 # Syntax highlightning
 [markup.highlight]
 guessSyntax = true 
@@ -102,3 +103,17 @@ languageCode = 'ita'
 languageName = 'Italiano'
 weight = 2
 description = "Catielle Andressa | Scrittricce e Consulente di Stoytelling"
+
+defaultContentLanguage = 'ita'
+
+[[menu.main]]
+identifier = "home" # identifier is use for translations
+pre = "" # pre is inserted before the translation (icons, image, etc)
+url = "/" 
+weight = 10 
+
+[[menu.main]]
+identifier = "contatti" # identifier is use for translations
+pre = "" # pre is inserted before the translation (icons, image, etc)
+url = "/#contatti" 
+weight = 30 
