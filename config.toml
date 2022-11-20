@@ -2,19 +2,6 @@
 # This string is used to generate the absolute URL for your assets.
 baseURL = 'https://catielleandressa.com'
 defaultContentLanguage = 'en'
-[[languages.ita.menu.main]]
-      identifier = "home" # identifier is use for translations
-      name = 'Casita'
-      url = '/'
-      weight = 0
-  [languages.en]
-    languageName = 'English'
-    weight = 0
-    [languages.en.menu]
-[[languages.en.menu.main]]
-      name = 'Home'
-      url = '/'
-      weight = 0
 # Emoji in markdown files
 enableEmoji = true
 languageCode = 'en-us'
@@ -102,10 +89,18 @@ url = "/#contatti"
 weight = 30 
 
 [[menu.main.ITA]]
-identifier = "casa" # identifier is use for translations
+identifier = "home" # identifier is use for translations
+name = "Casona"
 pre = "" # pre is inserted before the translation (icons, image, etc)
 url = "/" 
 weight = 10 
+
+[[languages.ita.menu.main]]
+identifier = "home" # identifier is use for translations
+name = 'Casita'
+url = '/'
+weight = 0
+
 
 # Syntax highlightning
 [markup.highlight]
