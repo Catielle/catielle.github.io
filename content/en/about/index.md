@@ -9,6 +9,3 @@ Catielle is a **Writer** and **Storytelling Consultant**. She has been working i
 She has a degree in Pedagogy from IESCAMP and in Film Screenwriting from AIC — International Film Academy  and SNCI — National School of Independent Cinema  in Italy where she currently lives.
 
 ![](/img/catielle_eng.jpg)
-
-
-!
