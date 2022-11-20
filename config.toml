@@ -46,13 +46,6 @@ name = "medium"
 url = "https://medium.com/@catielle"
 
 [[params.social]]
-alt = "twitter icon"
-blank = true
-icon = "/icons/twitter.svg"
-name = "twitter"
-url = "https://twitter.com/catiellean"
-
-[[params.social]]
 alt = "instagram icon"
 icon = "/icons/instagram.png"
 name = "instagram"
