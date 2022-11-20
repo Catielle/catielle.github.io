@@ -48,12 +48,14 @@ url = "https://instagram.com/cacreatestories"
 
 [[params.social]]
 alt = "linkedin icon"
+blank = true
 icon = "/icons/linkedin.png"
 name = "linkedin"
 url = "https://www.linkedin.com/in/catielleandressa"
 
 [[params.social]]
 alt = "pinterest icon"
+blank = true
 icon = "/icons/pinterest.png"
 name = "pinterest"
 url = "https://www.pinterest.it/catiellean/"
@@ -93,7 +95,7 @@ contentDir = 'content/en'
 languageCode = 'en'
 languageName = 'English'
 weight = 0
-description = "Catielle Andressa | Writer and Screenwriter"
+description = "Catielle Andressa | Writer and Storytelling Consultant"
 [languages.ita]
 contentDir = 'content/ita'
 languageCode = 'ita'
