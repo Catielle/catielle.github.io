@@ -21,7 +21,7 @@ customJS = ["js/console.js"] # Path relative to assets folder
 # Homepage description
 # For blog page description you can overwrite it 
 # in the front matter
-description = "Catielle Andressa | Writer and Screenwriter"
+description = "Catielle Andressa | Writer and Storytelling Consultant"
 email = "catielle@posteo.net"
 favicon = '/icons/favicon.ico'
 # Dark mode support
@@ -50,13 +50,13 @@ alt = "twitter icon"
 blank = true
 icon = "/icons/twitter.svg"
 name = "twitter"
-url = "https://twitter.com/outraventania"
+url = "https://twitter.com/catiellean"
 
 [[params.social]]
 alt = "instagram icon"
 icon = "/icons/instagram.png"
 name = "instagram"
-url = "https://instagram.com/catielleandressa"
+url = "https://instagram.com/catcreatestories"
 
 [[params.social]]
 alt = "linkedin icon"
@@ -105,4 +105,4 @@ contentDir = 'content/ita'
 languageCode = 'ita'
 languageName = 'Italiano'
 weight = 2
-description = "Catielle Andressa | Scrittore e Sceneggiatore"
+description = "Catielle Andressa | Scrittricce e Consulente di Stoytelling"
