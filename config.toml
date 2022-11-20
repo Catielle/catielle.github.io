@@ -62,38 +62,38 @@ url = "https://www.pinterest.it/catiellean/"
 
 
 # Navigation bar
-[menu]
+#[menu]
 
-[[menu.main]]
-identifier = "home" # identifier is use for translations
-pre = "" # pre is inserted before the translation (icons, image, etc)
-url = "/" 
-weight = 10 
+#[[menu.main]]
+#identifier = "home" # identifier is use for translations
+#pre = "" # pre is inserted before the translation (icons, image, etc)
+#url = "/" 
+#weight = 10 
 
-[[menu.main]]
-identifier = "contact" # identifier is use for translations
-pre = "" # pre is inserted before the translation (icons, image, etc)
-url = "/#contact" 
-weight = 30 
+#[[menu.main]]
+#identifier = "contact" # identifier is use for translations
+#pre = "" # pre is inserted before the translation (icons, image, etc)
+#url = "/#contact" 
+#weight = 30 
 
-[[menu.main]]
-identifier = "home" # identifier is use for translations
-pre = "" # pre is inserted before the translation (icons, image, etc)
-url = "/" 
-weight = 10 
+#[[menu.main]]
+#identifier = "home" # identifier is use for translations
+#pre = "" # pre is inserted before the translation (icons, image, etc)
+#url = "/" 
+#weight = 10 
 
-[[menu.main]]
-identifier = "contatti" # identifier is use for translations
-pre = "" # pre is inserted before the translation (icons, image, etc)
-url = "/#contatti" 
-weight = 30 
+#[[menu.main]]
+#identifier = "contatti" # identifier is use for translations
+#pre = "" # pre is inserted before the translation (icons, image, etc)
+#url = "/#contatti" 
+#weight = 30 
 
-[[menu.main.ITA]]
-identifier = "home" # identifier is use for translations
-name = "Casona"
-pre = "" # pre is inserted before the translation (icons, image, etc)
-url = "/" 
-weight = 10 
+#[[menu.main.ITA]]
+#identifier = "home" # identifier is use for translations
+#name = "Casona"
+#pre = "" # pre is inserted before the translation (icons, image, etc)
+#url = "/" 
+#weight = 10 
 
 
 # Syntax highlightning
