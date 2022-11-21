@@ -1,8 +1,6 @@
 +++
 widget = "contact_form"
-title = "Do you want to work with me?
-
-First name" 
+title = "Do you want to work with me?" 
 
 # Uncomment the following line and widget will NOT be displayed
 # hidden = true
