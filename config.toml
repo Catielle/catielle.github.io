@@ -117,7 +117,7 @@ tag = "tags"
 # English, French and Italian are supported but you can contribute
 # by adding translation to i18n/ folder.
 [languages.en]
-contentDir = 'content/en'
+contentDir = 'content'
 languageCode = 'en'
 languageName = 'English'
 weight = 0
