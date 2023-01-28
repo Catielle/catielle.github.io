@@ -1,25 +1,29 @@
 <!--
 Parameters:
-type - (Required) album / track / playlist / artist
-id - (Required) Target ID
+url - e.g: https://open.spotify.com/track/3EEd6ldsPat620GVYMEhOP?si=3c357af52e4f4e9e
 width - (Optional) width
 height - (Optional) height
 -->
 
+{{ $width := "100%" }}
+{{ $height := "380" }}
+{{ $type := "to-be-found" }}
+{{ $id := "to-be-found" }}
 {{ if .IsNamedParams }}
-    <iframe src="https://open.spotify.com/embed/{{ .Get "type" }}/{{ .Get "id" }}"
-            width="{{ default "100%" (.Get "width") }}"
-            height="{{ default "380" (.Get "height") }}"
-            frameborder="0"
-            allowtransparency="true"
-            allow="encrypted-media">
-    </iframe>
+    {{ $type = replaceRE `.*spotify.com\/(.*)\/.*` "$1" ( .Get "url" ) }}
+    {{ $id = replaceRE `.*spotify.com\/.*\/(.*).*` "$1" ( .Get "url" ) }}
+    {{ $width = (default $width ( .Get "width" )) }}
+    {{ $height = (default $height ( .Get "height" )) }}
 {{ else }}
-    <iframe src="https://open.spotify.com/embed/{{ .Get 0 }}/{{ .Get 1 }}"
-            width="{{ default "100%" (.Get 2) }}"
-            height="{{ default "380" (.Get 3) }}"
-            frameborder="0"
-            allowtransparency="true"
-            allow="encrypted-media">
-    </iframe>
+    {{ $type = replaceRE `.*spotify.com\/(.*)\/.*` "$1" ( .Get 0 ) }}
+    {{ $id = replaceRE `.*spotify.com\/.*\/(.*).*` "$1" ( .Get 0 ) }}
+    {{ $width = (default $width ( .Get 1 )) }}
+    {{ $height = (default $height ( .Get 2 )) }}
 {{ end }}
+<iframe src="https://open.spotify.com/embed/{{ $type }}/{{ $id }}"
+        width="{{ $width }}"
+        height="{{ $height }}"
+        frameborder="0"
+        allowtransparency="true"
+        allow="encrypted-media">
+</iframe>
