@@ -49,5 +49,8 @@
 	</div>
 	{{ end }}
 </div>
-
+{{ $intro := .Page.GetPage "_index.md" }}
+    {{ if $intro }}
+        {{ $intro.Content }}
+    {{ end }}
 {{ end }}

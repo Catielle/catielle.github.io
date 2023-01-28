@@ -1,0 +1,23 @@
+<section id="contact">
+</br>
+<h1 class="text-center mx-auto max-w-4xl text-4xl sm:text-5xl md:text-6xl">
+    "Subscribe to my monthly newsletter"
+</h1>
+<form class="w-full relative"
+      action="{{ .Site.Params.mailchimpURL }}"
+      method="post"
+      id="mc-embedded-subscribe-form"
+      name="mc-embedded-subscribe-form"
+      class="validate"
+      target="_blank"
+      novalidate>
+    <label class="">Email</label>
+    <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+    <label class="">Name</label>
+    <input type="text" value="" name="FNAME" class="" id="mce-FNAME">
+    <div class="float-right">
+        <input type="submit" class="bg-primary text-secondary" value='{{ i18n "submit" }}' />
+    </div>
+    <a href="https://mailchimp.com/legal/" target="_blank">Learn more about Mailchimp's privacy practices here.</a>
+</form>
+</section>
