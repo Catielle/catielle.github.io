@@ -27,4 +27,4 @@ hero_media = "/img/portrait.jpg"
 
 # Visual **Storyteller**. 
 
-Filmmaking & Photography
+Screenwriting, Filmmaking & Photography
