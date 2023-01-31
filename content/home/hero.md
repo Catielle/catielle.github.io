@@ -7,7 +7,7 @@ weight = 10
 # hidden = true
 
 # Hero image (optional). Enter filename of an image in the `static/` folder.
-hero_media = "/img/portrait.jpg"
+hero_media = "/img/catielle.jpg"
 
 # Buttons
 # Add as much button as you want
@@ -25,6 +25,6 @@ hero_media = "/img/portrait.jpg"
 
 +++
 
-# Visual **Storyteller**. 
+# Visual **Storyteller**
 
 Screenwriting, Filmmaking & Photography
