@@ -25,6 +25,6 @@ hero_media = "/img/portrait.jpg"
 
 +++
 
-# **Storytelling** Consultant. 
+# Visual **Storyteller**. 
 
-Learn with me how to tell stories that will captivate  and inspire your audience!
+Filmmaking & Photography
