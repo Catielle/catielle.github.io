@@ -23,7 +23,7 @@ customJS = ["js/console.js"] # Path relative to assets folder
 # Homepage description
 # For blog page description you can overwrite it 
 # in the front matter
-description = "Catielle Andressa | Writer and Storytelling Consultant"
+description = "Catielle Andressa | Visual Storyteller"
 email = "catielle@posteo.net"
 favicon = '/icons/favicon.ico'
 # Dark mode support
