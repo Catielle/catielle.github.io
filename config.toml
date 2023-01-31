@@ -49,13 +49,6 @@ name = "instagram"
 url = "https://instagram.com/cacreatestories"
 
 [[params.social]]
-alt = "linkedin icon"
-blank = true
-icon = "/icons/linkedin.png"
-name = "linkedin"
-url = "https://www.linkedin.com/in/catielleandressa"
-
-[[params.social]]
 alt = "pinterest icon"
 blank = true
 icon = "/icons/pinterest.png"
