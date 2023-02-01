@@ -1,5 +1,5 @@
 +++
-title = "Welcome to my web presence"
+title = "Welcome to my web presence!"
 
 type = "blog"
 +++
