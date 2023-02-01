@@ -7,7 +7,7 @@ weight = 10
 # hidden = true
 
 # Hero image (optional). Enter filename of an image in the `static/` folder.
-hero_media = "/img/chill.gif"
+hero_media = "/img/breath.gif"
 
 # Buttons
 # Add as much button as you want
