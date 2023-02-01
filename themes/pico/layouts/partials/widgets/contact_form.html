@@ -52,15 +52,15 @@
 
 		{{ if .Params.useEmail }}
 		{{ with .Site.Params.email }}
-		<a class="bg-secondary-dark dark:bg-secondary-light px-3 py-2 rounded-md mr-2 no-underline inline-block" href="mailto:{{ . }}">
+		<a class="bg-secondary-dark dark:bg-secondary-light px-3 py-2 rounded-none-md mr-2 no-underline inline-block text-white" href="mailto:{{ . }}">
 			{{ i18n "contact_email" }}
 		</a>
 		{{ end }}
 		{{ end }}
 
 		<div class="float-right">
-			<input type="reset" class="bg-secondary-dark dark:bg-secondary-light mr-2" value='{{ i18n "cancel" }}' />
-			<input type="submit" class="bg-primary text-secondary" value='{{ i18n "submit" }}' />
+			<input type="reset" class="bg-secondary-dark rounded-none dark:bg-secondary-light mr-2 text-white" value='{{ i18n "cancel" }}' />
+			<input type="submit" class="bg-[#2596be] rounded-none text-secondary" value='{{ i18n "submit" }}' />
 		</div>
 	</form>
 </section>
