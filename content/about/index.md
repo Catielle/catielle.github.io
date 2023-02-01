@@ -1,12 +1,17 @@
 +++
-title = "Stories Matter"
+title = "Welcome to my web presence"
 
 type = "blog"
 +++
 
 
-Catielle is a **Writer** and **Storytelling Consultant**. She has been working in the publishing market as a Ghostwriter for over ten years and also offers Consulting and Mentoring in *Creative Writing* and *Narrative* for individuals and companies.
-She has a degree in Pedagogy from IESCAMP and in Film Screenwriting from AIC — International Film Academy  and SNCI — National School of Independent Cinema  in Italy where she currently lives.
+Hi! I'm Catielle, a Brazilian **screenwriter** and **visual storyteller** based in Tuscany, Italy. 
+I'm a compulsive reader, crazy about movies, and a music-driven person. In my spare time, I usually will be doing one of these things. 
+I'm a mom of Tereza and I also have an adorable dog called Marvin. 
+
+Here you can find all my projects and also can read my blog, where I write about my life and creative processes.  
+
+See ya!
 
 
 
