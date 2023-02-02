@@ -12,7 +12,7 @@ I recently joined the Goodreads community and I decided to participate in the 20
 
 I don't know, I get excited in the begginig of the year with the season awards coming through (Yeah, I still do care about the Oscars) and I simply cannot think in anything else. 
 
-If you want to know everything that I'm watching (including the bad stuff),  you can follow me on TV TIME, but if you don't have all this free time and  wanna know just the best ones,  just keep reading this post.
+If you want to know everything that I'm watching (including the bad stuff),  you can follow me on TV TIME, but if you don't have all this free time and wanna know just the best ones,  just keep reading this post.
 
 Let's get started, baby:
 
