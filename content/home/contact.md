@@ -1,6 +1,6 @@
 +++
 widget = "contact_form"
-title = "Do you want to work with me?" 
+title = "Get in Touch?" 
 
 # Uncomment the following line and widget will NOT be displayed
 # hidden = true
@@ -55,4 +55,4 @@ required = true
 
 +++
 
-Don't be shy, say hi!
+ If you have any question, please fill out the forme below, I will do my best to respond within 1 business day.
