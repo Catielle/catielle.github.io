@@ -13,7 +13,7 @@ I have a beautiful daugther, an adorable dog and few friends. Here you can find 
 
 See ya!
 
-![](/img/catiandressa.jpg)
+![](/img/catiellebio.jpg)
 
 
 
