@@ -42,18 +42,25 @@ name = "medium"
 url = "https://medium.com/@catielle"
 
 [[params.social]]
-alt = "instagram icon"
-blank = true
-icon = "/icons/instagram.png"
-name = "instagram"
-url = "https://instagram.com/cacreatestories"
-
-[[params.social]]
 alt = "linkedin icon"
 blank = true
 icon = "/icons/linkedin.png"
 name = "linkedin"
 url = "https://www.linkedin.com/in/catielleandressa"
+
+[[params.social]]
+alt = "instagram icon"
+blank = true
+icon = "/icons/instagram.png"
+name = "instagram"
+url = "https://instagram.com/catielleandressa"
+
+[[params.social]]
+alt = "tiktok icon"
+blank = true
+icon = "/icons/tiktok.png"
+name = "tiktok"
+url = "https://www.tiktok.com/@catielleandressa"
 
 [[params.social]]
 alt = "pinterest icon"
