@@ -1,8 +1,18 @@
 <section id="contact">
 </br>
-<h1 class="text-center mx-auto max-w-4xl text-4xl sm:text-5xl md:text-6xl">
+<h1 class="text-center mx-auto max-w-4xl text-4xl sm:text-4xl md:text-4xl">
     "Subscribe to my monthly newsletter"
 </h1>
+
+<!--
+<script>
+function myFunction() {
+  alert("The form was submitted");
+}
+onsubmit="event.preventDefault(); myFunction()"
+</script>
+-->
+
 <form class="w-full relative"
       action="{{ .Site.Params.mailchimpURL }}"
       method="post"
@@ -20,4 +30,47 @@
     </div>
     <a href="https://mailchimp.com/legal/" target="_blank">Learn more about Mailchimp's privacy practices here.</a>
 </form>
+
+<!--
+<form action="//mc.us7.list-manage.com/signup-form/subscribe?u=aeb9cf80ed81e13b4232d1593&amp;id=000df7e3f0"
+      accept-charset="UTF-8"
+      method="post"
+      enctype="multipart/form-data"
+      data-dojo-attach-point="formNode"
+      novalidate="">
+      <div class="content__formFields" data-dojo-attach-point="formFieldsContainer">
+      <div class="field-wrapper" id="uniqName_8_0" widgetid="uniqName_8_0">
+          <label for="mc-EMAIL">E-mail</label>
+          <input type="text"
+                 name="EMAIL"
+                 value=""
+                 id="mc-EMAIL"
+                 class="invalid">
+           <div class="field-wrapper"
+                id="uniqName_8_1"
+                widgetid="uniqName_8_1">
+            <label for="mc-FNAME">Nome</label>
+            <input type="text"
+                   name="FNAME"
+                   value=""
+                   id="mc-FNAME"
+                   class="valid">
+           <div class="invalid-error" style="display: none;"></div>
+       </div>
+       <div style="position:absolute;left:-5000px;"
+            aria-hidden="true">
+            <input type="text"
+                   name="b_aeb9cf80ed81e13b4232d1593_547982"
+                   tabindex="-1"
+                   value="">
+        </div>
+        <input type="hidden"
+               name="ht"
+               value="e4649e37e80bdd22096d294b04a0f3aa6fcbfe9d:MTY3NTI2MDYwOS42MTc1">
+        </div>
+        <div class="content__button">
+            <input class="button" type="submit" value="Subscribe" data-dojo-attach-point="submitButton">
+        </div>
+    </form>
+-->
 </section>
