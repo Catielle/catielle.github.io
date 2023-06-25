@@ -27,4 +27,4 @@ hero_media = "/img/catiandressa.jpg"
 
 # Visual **Storyteller**
 
-Screenwriting, Filmmaking & Photography
+Visual Storyteller
