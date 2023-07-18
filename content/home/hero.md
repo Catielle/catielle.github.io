@@ -27,4 +27,4 @@ hero_media = "/img/catiandressa.jpg"
 
 # Visual **Storyteller**
 
-Visual Storyteller
+Multimedia Storyteller
